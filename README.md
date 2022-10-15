@@ -1,21 +1,44 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Amit Bhutani</h1>
+
 <h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
+
 
 🌍 I'm based in Ghaziabad, India
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
+<img align="right" alt="Coding" width="350"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
+
 
 😃 My interest includes Web Developing & Aesthetic Designing.
 
+🔭 I’m currently working on [ASOS](https://asos-clone-project.netlify.app/)
+
+🌱 I’m currently learning **ReactJS**
+
+💬 Ask me about **React, HTML, JavaScript**
+
 📧 Email - amitbhutani95@gmail.com
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amss-22&label=Profile%20views&color=0e75b6&style=flat" alt="amss-22" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amss-22" alt="amss-22" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <!-- 💼 Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/) -->
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-bhutani-6a4801236) 
 
+<a href="https://instagram.com/_singh_amitraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_singh_amitraj" height="30" width="40" /></a>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -48,3 +71,6 @@
 amss-22/amss-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
