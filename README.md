@@ -21,7 +21,7 @@
 
 💬 Ask me about **React, HTML, JavaScript**
 
-Portfolio https://keen-tiramisu-bb6222.netlify.app/
+Portfolio https://amss-22.github.io/
 
 📧 Email - amitbhutani95@gmail.com
 
