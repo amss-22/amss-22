@@ -46,9 +46,10 @@ Portfolio https://amss-22.github.io/
 <a href="https://instagram.com/_singh_amitraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_singh_amitraj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amit-bhutani-6a4801236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prem-sardhan-2067bb177" height="30" width="40" /></a>
 <a href="https://codesandbox.io/dashboard/recent?workspace=5004bb84-dcb4-496f-92b0-d39004b778a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="amit-bhutani" height="30" width="40" /></a>
+ <a href="https://amss-22.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="amit-bhutani" height="30" width="40" /></a>
  
 </p>
-![Portfolio](https://amss-22.github.io/)
+
 
 
 
