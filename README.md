@@ -40,9 +40,15 @@ Portfolio https://amss-22.github.io/
 <!-- 💼 Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/) -->
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-bhutani-6a4801236) 
-
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://instagram.com/_singh_amitraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_singh_amitraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-bhutani-6a4801236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prem-sardhan-2067bb177" height="30" width="40" /></a>
+<a href="https://codesandbox.com/prem-sardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prem-sardhan" height="30" width="40" /></a>
+</p>
+
+
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
