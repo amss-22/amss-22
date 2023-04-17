@@ -15,7 +15,7 @@
 
 😃 My interest includes Web Developing & Aesthetic Designing.
 
-🔭 I’m currently working on [ASOS](https://asos-clone-project.netlify.app/)
+🔭 I’m currently working on "CRICHIKE" (React Native Application)
 
 🌱 I’m currently learning **ReactJS**
 
