@@ -15,8 +15,6 @@
 
 😃 My interest includes Web Developing & Aesthetic Designing.
 
-🔭 I’m currently working on "CRICHIKE" (React Native Application)
-
 💬 Ask me about **React, HTML, JavaScript**
 
 Portfolio https://amss-22.github.io/
